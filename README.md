@@ -11,7 +11,7 @@ This tutorial will use the following data, criteria, and justification for site 
 - Beds / Capita by County: Some regions have a greater amount of hospital resources allocated to them per the general population. Beds will serve as a proxy for the amount of hospital resources allocated.
 
 All necessary data is provided in the following geodatabase, with one more dataset to be chosen and supplied by the user: 
-[HospitalSiteTutorial.gdb](https://github.com/natewalk22/GISHospitalTutorial/blob/main/HospitalSiteTutorial.gdb.zip)
+[HospitalSiteTutorial.gdb](https://github.com/natewalk22/GISHospitalTutorial/raw/main/HospitalSiteTutorial.gdb.zip "download")
 ## Preparation of Hospital Locations
 1. Open a new ArcGIS Pro project, saving and naming as desired.
 2. In the Catalog pane, click **Favorites,** then **Add Item,** then **Add Folder**
