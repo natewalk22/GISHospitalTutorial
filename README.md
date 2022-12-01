@@ -14,7 +14,7 @@ All necessary data is provided in the following geodatabase, with one more datas
 ## Preparation of Hospital Locations
 1. Open a new ArcGIS Pro project, saving and naming as desired.
 2. In the Catalog pane, click **Favorites,** then **Add Item,** then **Add Folder**
-![CatalogFavorites](/GISHospitalTutorial/Pictures/CatalogFavorites.png)
+![CatalogFavorites](GISHospitalTutorial/GISHospitalTutorial/Pictures/ADDRASTER.PNG)
 3. Navigate to where you downloaded the geodatabase and add the containing folder.
 4. The folder should now appear in the Catalog pane. Expand the folder and the **HospitalSiteTutorial** geodatabase.
 5. Inside are 4 layers. Add the layer titled **IllinoisHospitals** to the map. It should look something like this:
